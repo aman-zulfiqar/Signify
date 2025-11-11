@@ -176,6 +176,9 @@ Thumbs.db
 logs/
 *.log
 
+# Peronal 
+scope.md
+
 # Model Artifacts Directory (if you want to ignore entire directories)
 # Uncomment if you want to ignore all model files
 # model/keypoint_classifier/*.hdf5
